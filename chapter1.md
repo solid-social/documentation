@@ -1,3 +1,3 @@
-# Chapter 1 - Getting starting
+# Chapter 1 - Features
 
 Coming soon ...
