@@ -1,4 +1,6 @@
 Solid Social
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+[solid.social](https://solid.social/) is the first decentralized social network built in the style of the web.  It is 100% owned by its users.
+
+
