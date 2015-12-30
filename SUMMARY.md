@@ -6,4 +6,5 @@
 * [Chapter 5 - Instant Messaging](chapter5.md)
 * [Appendix A - Screenshots](appendixa.md)
 * [Appendix B - Screencasts](appendixb.md)
+* Chapter 3 - Inbox
 
