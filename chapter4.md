@@ -2,4 +2,6 @@
 
 Use:
 
-https://linkeddata.github.io/profile-editor/#/profile/view
+https://linkeddata.github.io/profile-editor/#/profile/
+
+![](profile.png)
