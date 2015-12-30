@@ -32,12 +32,22 @@ This book is a stub.  Please help improve this documentation by forking the gitb
 
 # Gallery
 
+## Profile Management
+
 ![](profile.png)
+
+## Inbox
 
 ![](inbox2.png)
 
+## Instant Messaging
+
 ![](http://webid.im/paper/paper.png)
 
+## App market
+
 ![](webappmarket.png)
+
+## Payments
 
 ![](http://virtualwallet.org/paper/paper.png)
