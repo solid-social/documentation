@@ -36,3 +36,4 @@ This book is a stub.  Please help improve this documentation by forking the gitb
 
 ![](inbox2.png)
 
+![](http://webid.im/paper/paper.png)
