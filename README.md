@@ -40,3 +40,4 @@ This book is a stub.  Please help improve this documentation by forking the gitb
 
 ![](webappmarket.png)
 
+![](http://virtualwallet.org/paper/paper.png)
