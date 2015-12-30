@@ -34,3 +34,5 @@ This book is a stub.  Please help improve this documentation by forking the gitb
 
 ![](profile.png)
 
+![](inbox2.png)
+
