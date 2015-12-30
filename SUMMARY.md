@@ -9,5 +9,5 @@
 * [Chapter 6 - App Market](chapter6.md)
 * [Appendix A - Screenshots](appendixa.md)
 * [Appendix B - Screencasts](appendixb.md)
-* Chapter 7 - Payments
+* [Chapter 7 - Payments](chapter7.md)
 
