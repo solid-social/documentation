@@ -30,3 +30,5 @@ This book is a stub.  Please help improve this documentation by forking the gitb
 * 100% compliant with Open W3C Standards
 
 
+# Gallery
+
