@@ -25,6 +25,8 @@ This book is a stub.  Please help improve this documentation by forking the gitb
 * Semantic Inbox
 * Privacy control on all data
 * Open ended access to data
+* App platform
+* Web payments
 * 100% compliant with Open W3C Standards
 
 
