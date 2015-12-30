@@ -7,7 +7,7 @@
 * [Chapter 3 - Inbox](chapter3.md)
 * [Chapter 5 - Instant Messaging](chapter5.md)
 * [Chapter 6 - App Market](chapter6.md)
+* [Chapter 7 - Payments](chapter7.md)
 * [Appendix A - Screenshots](appendixa.md)
 * [Appendix B - Screencasts](appendixb.md)
-* [Chapter 7 - Payments](chapter7.md)
 
