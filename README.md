@@ -39,3 +39,4 @@ This book is a stub.  Please help improve this documentation by forking the gitb
 ![](http://webid.im/paper/paper.png)
 
 ![](webappmarket.png)
+
