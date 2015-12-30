@@ -32,3 +32,5 @@ This book is a stub.  Please help improve this documentation by forking the gitb
 
 # Gallery
 
+![](profile.png)
+
