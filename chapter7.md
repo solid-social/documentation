@@ -8,3 +8,4 @@ See work in progress
 
 http://virtualwallet.org/paper/
 
+![](http://virtualwallet.org/paper/paper.png)
