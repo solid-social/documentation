@@ -4,5 +4,5 @@
 * [Chapter 1 - Features](chapter1.md)
 * [Appendix A - Screenshots](appendixa.md)
 * [Appendix B - Screencasts](appendixb.md)
-* Chapter 5 - Instant Messaging
+* [Chapter 5 - Instant Messaging](chapter5.md)
 
